@@ -1,15 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=wonpyo93&fontSize=50" />
 </p>
-<p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonpyo93)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-
-  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonpyo93)](https://solved.ac/wonpyo93)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonpyo93)](https://github.com/anuraghazra/github-readme-stats)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonpyo93)](https://solved.ac/wonpyo93)
 
 - 🔭 I’m currently working as a graduate student in Yonsei University, majoring in Department of Artificial Intelligence.
 - 💬 Ask me about anything other than my cat, Coco.
-- 📫 How to reach me:    <a href="mailto:wonpyo93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wonpyo93@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+- 📫 How to reach me: ...<a href="mailto:wonpyo93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wonpyo93@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ### 💪 Skills
 <p>
