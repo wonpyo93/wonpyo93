@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=wonpyo93&fontSize=50&fontAlignY=38&animation=twinkling&desc=홍원표&descAlignY=51&descAlign=58"/>    
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=wonpyo93&fontSize=50&fontAlignY=38&animation=twinkling&desc=홍원표&descAlignY=51&descAlign=60"/>    
 </p>
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonpyo93)](https://github.com/anuraghazra/github-readme-stats) 
