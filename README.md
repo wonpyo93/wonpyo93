@@ -10,8 +10,10 @@
 - 📫 How to reach me: ...<a href="mailto:wonpyo93@gmail.com" target="_blank"><img src="https://img.shields.io/badge/wonpyo93@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <p align="center">
-   ### 💪 Skills    
-  
+  💪 Skills
+ </p>
+ 
+<p align="center">
   <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=Apache%20Cordova&logoColor=black"/>
