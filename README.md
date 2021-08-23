@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=wonpyo93&fontSize=50" />    
 </p>
 
+<p align="center">
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonpyo93)](https://github.com/anuraghazra/github-readme-stats) 
+</p>
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonpyo93)](https://github.com/anuraghazra/github-readme-stats) 
   [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonpyo93)](https://solved.ac/wonpyo93)
 
