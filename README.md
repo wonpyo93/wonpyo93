@@ -2,13 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=wonpyo93&fontSize=50&fontAlignY=38&animation=twinkling&desc=홍원표&descAlignY=51&descAlign=60"/>    
 </p>
 
-<p align="center">
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonpyo93)](https://github.com/anuraghazra/github-readme-stats) 
-</p>
   
   [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonpyo93)](https://solved.ac/wonpyo93)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonpyo93&layout=compact)]
+  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonpyo93&layout=compact)
   
   
 - 🔭 I’m currently working as a graduate student in Yonsei University, majoring in Department of Artificial Intelligence.
