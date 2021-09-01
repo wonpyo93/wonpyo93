@@ -4,8 +4,7 @@
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonpyo93)](https://github.com/anuraghazra/github-readme-stats) 
   
-  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonpyo93)](https://solved.ac/wonpyo93)
-  
+  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonpyo93)](https://solved.ac/wonpyo93)  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonpyo93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
   
