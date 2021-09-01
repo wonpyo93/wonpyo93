@@ -6,7 +6,8 @@
   
   [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=wonpyo93)](https://solved.ac/wonpyo93)
   
-  [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonpyo93&layout=compact)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonpyo93&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
   
   
 - 🔭 I’m currently working as a graduate student in Yonsei University, majoring in Department of Artificial Intelligence.
